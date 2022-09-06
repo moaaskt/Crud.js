@@ -15,7 +15,7 @@
 
 
 <h2 id="#sobre"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji>SOBRE </h2>
-<p>Crud feito em sala de aula, o objetivo dele é cadastrar alunos de um especifico curso com suas respectivas notaas. </P>
+<p>Crud feito em sala de aula, o objetivo dele é cadastrar alunos de um especifico curso com suas respectivas notas. </P>
 
 <h2 id="usar"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀Como Usar</g-emoji> </h2></a> 
 <p> <ul type="number" dir="auto">
