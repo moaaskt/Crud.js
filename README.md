@@ -43,5 +43,5 @@ Tecnologias </h2>
 <br>
 <h2 id="autor"><g-emoji class="g-emoji" alias="bookmark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f516.png">🔖</g-emoji>
 autor </h2> 
-<p> Feito por <a href="">Moacir Neto</a> </p>
+<p> Feito por <a href="https://www.instagram.com/moa.skt/" target="_blank">Moacir Neto</a> </p>
 
